@@ -1,0 +1,11 @@
+{
+    "name": "pandan-labs",
+    "version": "1.0.0",
+    "description": "Pandan Labs - Smart IT Solutions",
+    "dependencies": {
+        "nodemailer": "^6.9.7"
+    },
+    "engines": {
+        "node": "18.x"
+    }
+}
