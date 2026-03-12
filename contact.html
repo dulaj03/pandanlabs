@@ -414,8 +414,8 @@
             try {
                 const formData = new FormData(form);
                 const data = {
-                    fname: formData.get('name'),
-                    lname: '',
+                    fname: formData.get('fname'),
+                    lname: formData.get('lname'),
                     email: formData.get('email'),
                     phone: formData.get('phone'),
                     company: formData.get('company'),

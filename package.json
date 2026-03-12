@@ -2,10 +2,14 @@
     "name": "pandan-labs",
     "version": "1.0.0",
     "description": "Pandan Labs - Smart IT Solutions",
+    "scripts": {
+        "start": "echo 'Static site deployed'",
+        "build": "echo 'Static site - no build needed'"
+    },
     "dependencies": {
         "nodemailer": "^6.9.7"
     },
     "engines": {
-        "node": "18.x"
+        "node": "24.x"
     }
 }
