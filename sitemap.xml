@@ -1,5 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://pandanlabs.vercel.app/</loc>
-  </url>
+
+<url>
+<loc>https://pandanlabs.vercel.app/</loc>
+</url>
+
+<url>
+<loc>https://pandanlabs.vercel.app/services.html</loc>
+</url>
+
+<url>
+<loc>https://pandanlabs.vercel.app/contact.html</loc>
+</url>
+
+<url>
+<loc>https://pandanlabs.vercel.app/industries.html</loc>
+</url>
+
+<url>
+<loc>https://pandanlabs.vercel.app/why-us.html</loc>
+</url>
+
+<url>
+<loc>https://pandanlabs.vercel.app/privacy-policy.html</loc>
+</url>
+
+<url>
+<loc>https://pandanlabs.vercel.app/terms-of-service.html</loc>
+</url>
+
 </urlset>
